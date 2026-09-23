@@ -1,0 +1,60 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4f65022a-f9ae-4f3f-8aa5-4b8bab1cf591")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 100.33 68.58)
+		(size 59.69 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fed28b0e-6aec-48d4-b9ac-6a38df1423ea")
+		(property "Sheetname" "WROOM 32E"
+			(at 100.33 67.8684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "WROOM 32E.kicad_sch"
+			(at 100.33 112.3446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thesis"
+				(path "/4f65022a-f9ae-4f3f-8aa5-4b8bab1cf591"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
